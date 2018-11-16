@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Remove python GPIO package;
-sudo apt-get purge python-rpi.gpio.
+sudo apt-get purge python-rpi.gpio. pi-bluetooth
 
 
 # Set GPU memory to minimal;
